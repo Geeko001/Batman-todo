@@ -1,0 +1,9 @@
+{
+  "appId": "com.batman.protocol",
+  "appName": "Batman Protocol",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

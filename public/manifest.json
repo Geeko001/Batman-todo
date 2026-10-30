@@ -1,0 +1,18 @@
+{
+  "short_name": "BatmanProto",
+  "name": "BATMAN PROTOCOL — Mission Control",
+  "description": "Tactical 30/60-day challenge and habit mission control system.",
+  "icons": [
+    {
+      "src": "/bat-insignia.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B0D12",
+  "theme_color": "#0B0D12",
+  "display": "standalone",
+  "orientation": "portrait"
+}
